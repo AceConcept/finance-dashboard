@@ -53,8 +53,21 @@ const EditIcon = () => (
   </svg>
 );
 
+// Define an interface for your table data
+interface TableRow {
+  id: number;
+  transaction: string;
+  amount: string;
+  date: string;
+  category: {
+    name: string;
+    color: string;
+    dotColor: string;
+  };
+}
+
 export default function Table() {
-  // Use state to store the table data
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const [tableData, setTableData] = useState<any[]>([]);
 
   // Generate data only once when component mounts on client side

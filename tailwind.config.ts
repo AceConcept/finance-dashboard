@@ -1,4 +1,9 @@
-import type { Config } from "tailwindcss";
+import type { Config } from 'tailwindcss'
+
+// Add type for the plugin function
+interface PluginAPI {
+  addComponents: (components: Record<string, any>) => void;
+}
 
 const config: Config = {
     darkMode: ["class"],
@@ -71,7 +76,7 @@ const config: Config = {
   },
   plugins: [
     require("tailwindcss-animate"),
-    function({ addComponents }) {
+    function({ addComponents }: PluginAPI) {
       addComponents({
         '.btn-custom': {
           borderRadius: '8px',
