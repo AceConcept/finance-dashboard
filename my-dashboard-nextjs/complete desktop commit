@@ -1,0 +1,41 @@
+[33mcommit 9e491e59fd08426d54f36d0de752c5c6afbed725[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature-name[m[33m, [m[1;32mmain[m[33m)[m
+Author: AceConcept <guildconcept@gmail.com>
+Date:   Thu Dec 5 12:11:57 2024 -0500
+
+    Initial commit
+
+[33mcommit 8c8eac5ab0c1532a1e5969fe8667242585e667b2[m
+Author: AceConcept <guildconcept@gmail.com>
+Date:   Tue Nov 12 15:16:07 2024 -0500
+
+    Clean up project structure and fix deployment configuration
+
+[33mcommit f1c30dfcbf6322b4b2d6ecf2aa68ea3fbd214fe2[m
+Author: AceConcept <guildconcept@gmail.com>
+Date:   Tue Nov 12 15:02:50 2024 -0500
+
+    Add Vercel configuration
+
+[33mcommit 0fde94d083eb1b1823e95236ea8378b21efe3558[m
+Author: AceConcept <guildconcept@gmail.com>
+Date:   Tue Nov 12 14:55:49 2024 -0500
+
+    Add Vercel configuration
+
+[33mcommit 61d5816409c51b3e828709752811e6d47c66cc9f[m
+Author: AceConcept <guildconcept@gmail.com>
+Date:   Tue Nov 12 14:48:53 2024 -0500
+
+    Add dashboard components and fix build issues
+
+[33mcommit 4d99086a15d47db1b75c951bf65602068e73cb34[m
+Author: AceConcept <guildconcept@gmail.com>
+Date:   Tue Nov 5 17:11:40 2024 -0500
+
+    Your commit message
+
+[33mcommit 13b15eac9cd4c97460e960c72808629813ea214d[m
+Author: AceConcept <guildconcept@gmail.com>
+Date:   Mon Nov 4 14:47:49 2024 -0500
+
+    Initial commit
